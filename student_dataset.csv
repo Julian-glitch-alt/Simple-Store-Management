@@ -1,0 +1,308 @@
+name,nationality,city,gender,age,english.grade,math.grade,sciences.grade,language.grade
+Kiana Lor,China,Suzhou,F,22,3.5,3.7,3.1,1.0
+Joshua Lonaker,United States of America,Santa Clarita,M,22,2.9,3.2,3.6,5.0
+Dakota Blanco,United States of America,Oakland,F,22,3.9,3.8,3.2,5.0
+Natasha Yarusso,United States of America,Castro Valley,F,20,3.3,2.8,3.2,5.0
+Brooke Cazares,Brazil,São José dos Campos,F,21,3.7,2.6,3.4,1.0
+Rochelle Johnson,United States of America,Indianapolis,F,21,3.4,3.1,3.7,5.0
+Joey Abreu,China,Shenyang,M,22,3.7,3.9,3.6,2.0
+Preston Suarez,Brazil,São Paulo,M,22,3.8,3.7,3.6,2.0
+Lee Dong,Philippines,Manila,F,24,3.9,3.6,3.2,2.0
+Maa'iz al-Dia,Turkey,Istanbul,M,22,2.4,2.8,3.8,3.0
+Maja Nicholson,United States of America,Dallas,F,23,3.4,3.5,3.2,5.0
+Sasha Jansen,United States of America,Chicago,F,21,1.7,4.0,3.6,5.0
+Alexander Sherman,United States of America,Omaha,M,20,3.8,3.6,3.9,5.0
+Edgar Sanchez,Mexico,Tijuana,M,23,3.7,3.5,4.0,4.0
+Kolbi Strunk,United States of America,Mission Viejo,M,21,3.2,3.9,3.3,5.0
+Brittany Sath,Japan,Tokyo,F,21,4.0,3.9,3.7,3.0
+Meggan Smith,United States of America,Los Angeles,F,21,2.9,3.4,3.6,5.0
+Ericka Arreola,Mexico,Mexico,other,23,3.1,3.5,2.8,4.0
+David Pulc,Canada,Toronto,M,24,3.9,2.9,4.0,5.0
+Kyle Luckey,United States of America,Moreno Valley,M,23,3.7,3.9,3.4,5.0
+Rojesh Her,Japan,Tokyo,M,22,3.8,3.6,3.6,2.0
+David Weber,China,Peking,M,20,3.9,3.9,3.9,2.0
+Rachel Jambor,United States of America,Chicago,F,22,3.6,3.6,3.9,5.0
+Mus'ab al-Moustafa,Pakistan,Rawalpindi,M,23,3.8,3.9,3.8,2.0
+Sila Nguyen,China,Hebi,M,23,2.8,3.5,3.5,4.0
+Samantha Hicks,United States of America,Santa Barbara,F,22,3.7,3.7,3.8,5.0
+Angela Harding,United States of America,Manteca,F,22,3.1,2.9,3.2,5.0
+Brandon Barbour,United States of America,South Hill,M,21,3.9,3.7,3.3,5.0
+Reilly Wagar,United States of America,Modesto,F,23,3.4,3.2,3.7,5.0
+Victoria Ibarra,Dominican Republic,Santo Domingo,F,22,3.4,3.8,4.0,4.0
+Dakota Wirth,United States of America,Sacramento,F,22,3.4,3.9,3.6,5.0
+Lauren Klocker,United States of America,Los Angeles,F,22,2.3,3.9,3.8,5.0
+Michael Benson,United States of America,Phoenix,M,21,3.8,3.7,3.7,5.0
+Sean Rozga,United States of America,Los Angeles,M,21,3.4,3.8,3.6,5.0
+Cody Vermeylen,United States of America,Detroit,M,23,3.3,3.8,3.5,5.0
+Kinaana al-Jamail,India,Kanpur,F,22,3.3,3.8,3.7,3.0
+Daniel Garcia,Peru,Lima,M,22,3.7,3.1,3.0,3.0
+Katrina Saito,Japan,Tokyo,F,22,3.8,4.0,3.7,4.0
+Joshua Galloway,United States of America,New York,M,24,3.3,3.3,3.6,5.0
+Aylin Mendoza,Mexico,Mexico,F,22,3.0,2.3,3.9,4.0
+Sharon Fyfe,United States of America,Los Angeles,F,22,3.7,3.0,3.8,5.0
+Afnaan el-Mohammed,India,New Delhi,F,22,1.7,3.5,3.9,2.0
+Jesse Williams,Russian Federation,Moscow,F,21,3.9,3.4,2.6,4.0
+Kenny Fukushima,Japan,Tokyo,M,22,3.9,2.9,3.3,4.0
+Tawnie Glaisher,United States of America,Fremont,F,24,3.4,3.2,3.8,5.0
+Britany Stevens,United States of America,Lafayette,F,23,3.6,3.3,3.5,5.0
+Alan Trinh,Japan,Tokyo,M,20,2.8,3.1,3.8,4.0
+Zoe Kern,United States of America,West Jordan,F,22,2.1,4.0,3.4,5.0
+Sidney Beavers,United States of America,Los Angeles,M,23,2.3,2.8,3.5,5.0
+Miriam Aguilar,Mexico,Mexicali,F,22,3.6,3.8,2.8,2.0
+Issac Mata,Mexico,Tehuacán,M,23,2.4,3.1,2.7,1.0
+Hannah Uren,United States of America,Los Angeles,F,22,3.2,2.2,3.5,5.0
+Zachary Bradley,Spain,Madrid,M,21,3.5,3.5,3.4,2.0
+Moira Buttitto,United States of America,Los Angeles,F,23,1.9,2.8,3.2,5.0
+Nicole Humpal,United States of America,Walnut Creek,F,22,3.9,3.7,4.0,5.0
+Georgia Williams,United States of America,Memphis,F,23,2.9,3.6,3.1,5.0
+Connor Ferry,United States of America,Charlotte,M,23,3.1,3.8,4.0,5.0
+Amanda Tatum,United States of America,San Diego,F,22,3.5,2.3,3.7,5.0
+Cameron Steinberg,United States of America,Los Angeles,M,20,2.1,3.9,3.9,5.0
+Shuraih el-Karim,Pakistan,Khalabat,M,22,3.1,2.1,2.3,4.0
+Katelyn Sharp,United States of America,Los Angeles,F,20,3.9,3.7,2.8,5.0
+Colin Lemont,China,Shanghai,M,21,3.6,4.0,3.1,4.0
+Donald Nevins,United States of America,San Jose,M,23,3.6,3.4,2.8,5.0
+Macaela Kadillak,United States of America,Los Angeles,F,20,2.7,3.3,3.3,5.0
+Brittany Pratt,United States of America,San Diego,F,22,3.0,3.1,3.1,5.0
+Cameron Hancock,Poland,Warsaw,M,21,3.9,3.8,3.0,3.0
+William Grevious,United States of America,Stockton,M,22,3.4,3.4,3.1,5.0
+Lindsey Job,United States of America,Los Angeles,F,23,2.7,3.7,1.8,5.0
+Gabrielle Smith,Korea (Republic of),Seoul,F,23,4.0,3.0,2.8,3.0
+Allison Brink-Lomme,United States of America,Portland,F,24,2.8,3.6,4.0,5.0
+Sheyenne Delgado-Manzanares,Cuba,Manzanillo,F,21,3.9,2.8,3.2,3.0
+Joseph Smith,United States of America,Sacramento,M,21,3.7,3.7,2.8,5.0
+Fikra al-Mina,India,Bombay,F,21,3.1,2.4,3.3,3.0
+Aurelia Davis Ingham,United States of America,Roseville,F,22,3.8,2.2,3.7,5.0
+Taylor Elstun,United States of America,San Diego,F,21,2.3,3.7,3.6,5.0
+Joseph Snider,United States of America,Los Angeles,M,21,3.2,2.6,3.0,5.0
+Sourinthone Tran,China,Wuhan,M,21,3.5,3.9,3.4,4.0
+Ibrahim al-Sawaya,Tunisia,Manzil Tamim,M,23,3.5,3.1,4.0,4.0
+Alexandra Levy,United States of America,Los Angeles,F,23,3.1,2.5,3.7,5.0
+Macie Nguyen,Japan,Tokyo,F,23,3.1,3.8,3.8,4.0
+Sean Tegtman,United States of America,Kettering,M,25,3.7,3.8,3.8,5.0
+Casey Vanden Bos,United States of America,Los Angeles,M,22,2.7,2.6,3.3,5.0
+Staci Maes,Mexico,Mexico,F,23,3.4,2.6,3.9,2.0
+Luke Davey,United States of America,Los Angeles,M,26,3.8,3.4,3.7,5.0
+Harper Wheeler-Marques,United States of America,San Diego,F,23,3.9,2.4,3.9,5.0
+Sherleen Saravanan,Myanmar,Rangoon,F,22,3.1,3.4,3.7,3.0
+Myles Vaught,United States of America,Waukegan,M,21,3.4,3.8,3.9,5.0
+Juan Guerrero Camacho,Mexico,Mexico,M,21,2.8,3.7,3.5,2.0
+Lindsey Freund,United States of America,New York,F,20,3.3,2.3,3.9,5.0
+Savannah Clark,United States of America,Visalia,F,20,2.8,3.5,2.6,5.0
+Bradley Monsell,United States of America,New York,M,22,3.0,3.9,3.1,5.0
+Daisha Schmidt,United States of America,Boulder,F,22,3.7,3.9,4.0,5.0
+Airabella Koontz,United States of America,Dallas,F,22,2.7,3.3,3.4,5.0
+Hailey Malle,Russian Federation,Nizhniy Novgorod,F,22,3.7,2.5,3.2,2.0
+Devon Miranda,Colombia,Pereira,M,20,3.7,3.7,3.8,1.0
+Danielle Nguyen,Japan,Tokyo,F,23,3.3,3.5,3.6,3.0
+Mateo Cisneros,Brazil,Foz do Iguaçu,M,23,3.0,3.4,2.9,4.0
+William Pablo,Japan,Kashiwara,M,24,2.9,3.3,3.1,4.0
+Jason Hundsdorfer,United States of America,Los Angeles,M,20,3.9,3.9,4.0,5.0
+Antonio Desai,Japan,Kawasaki,M,22,2.2,3.9,3.9,3.0
+Rachel Bakeman,United States of America,Phoenix,F,24,3.9,3.7,3.8,5.0
+Mamdooh el-Moustafa,Pakistan,Karachi,M,22,3.3,2.8,3.9,4.0
+Lindsey Carter,United States of America,Redwood City,F,24,3.2,3.9,3.9,5.0
+Duncan Kruse,United States of America,Santa Ana,M,23,3.7,3.8,3.7,5.0
+Callahan Foster,Canada,Toronto,other,22,3.2,3.0,3.9,5.0
+Jamie Ortiz,El Salvador,Nueva San Salvador,F,23,3.3,2.9,3.5,3.0
+Ryan Barrett,United States of America,Chicago,M,20,3.7,3.2,4.0,5.0
+Samuel Palmer,United States of America,New York,M,22,3.9,3.3,3.3,5.0
+Riley Mcloughlin,United States of America,Los Angeles,M,23,3.6,3.6,3.3,5.0
+Aimee Apelyan,United States of America,Joliet,F,24,3.3,3.8,3.8,5.0
+Maryah Falloon,United States of America,Phoenix,F,23,3.9,3.7,3.9,5.0
+Lucille Mitchell,Canada,Edmonton,F,22,3.5,3.6,2.6,5.0
+Christian Zambrano-Munoz,Mexico,Mexicali,M,23,3.1,3.9,3.6,4.0
+Bryce Vaillancourt,United States of America,Pomona,M,22,3.7,3.8,2.1,5.0
+Brandilyn Collins,United States of America,Los Angeles,F,21,3.6,3.0,3.3,5.0
+Konner Gearhart,United States of America,New York,M,22,3.9,3.7,3.3,5.0
+Andrew Houghton,United States of America,Spokane,M,22,3.2,3.2,3.8,5.0
+Marisa Ramey,Mexico,Mexico,F,22,3.2,4.0,3.8,4.0
+Magdalynne Noah,United States of America,New York,F,22,3.2,3.8,3.8,5.0
+Megan Salamena,United States of America,Los Angeles,F,23,3.9,3.9,3.1,5.0
+Meghan Arnold,Russian Federation,Saint Petersburg,F,24,4.0,3.9,3.3,3.0
+James Rice,Canada,Toronto,M,20,3.9,2.4,3.6,5.0
+Wesley Nunn,United States of America,Los Angeles,M,23,3.9,4.0,2.1,5.0
+Gareth Newkirk,United States of America,Los Angeles,M,21,4.0,3.2,3.9,5.0
+Austin Harline,United States of America,Las Vegas,M,21,2.8,3.8,3.8,5.0
+Courtney Martinez,Mexico,Aguascalientes,F,20,3.7,3.7,3.7,3.0
+Alexandra Graham,United States of America,Los Angeles,F,22,3.4,3.5,2.8,5.0
+Alexander Swearingen,United States of America,Los Angeles,M,22,3.9,2.8,4.0,5.0
+Brandy Waldner,Germany,Zülpich,F,20,3.2,3.5,3.9,3.0
+Coleman Keelen,Spain,Callosa de Segura,M,24,3.4,4.0,3.4,4.0
+Casey Buhr,United States of America,Phoenix,M,21,3.7,3.2,2.5,5.0
+Shauna Sneed,United States of America,Burlingame,F,19,2.7,3.7,3.7,5.0
+Caitlin Dean,United States of America,Philadelphia,F,22,3.9,3.7,3.1,5.0
+Andrew Kirin,United States of America,Odessa,M,25,3.8,2.2,3.0,5.0
+Nadia Minks,Russian Federation,Moscow,F,24,3.8,3.1,3.5,4.0
+Ivy Lucero,Brazil,São Paulo,F,24,3.9,3.6,3.2,3.0
+Kevin Curry,United States of America,Phoenix,M,23,3.9,3.0,3.7,5.0
+Charles Cramer,United States of America,East Los Angeles,M,23,3.1,3.5,3.8,5.0
+Emily Warner,United States of America,Lodi,F,21,3.5,3.2,3.9,5.0
+Mckenzie Haycock,Canada,Toronto,F,20,3.8,2.3,3.7,5.0
+Faviola Soto,Mexico,Cortazar,F,19,4.0,3.8,3.9,3.7
+Stephen Wharton,Mexico,Tuxtla Gutiérrez,M,21,2.1,3.7,3.8,4.0
+Alexandria Fortner,United States of America,Phoenix,F,20,3.9,3.8,3.8,5.0
+Savannah Kivett,United States of America,Colorado Springs,F,21,3.8,3.9,3.8,5.0
+Tanner Jones,United States of America,Stockton,M,23,3.9,3.7,3.7,5.0
+Luisa Bautista,Mexico,Mexico,F,21,3.3,3.0,3.4,3.0
+Juhaina al-Bilal,Bangladesh,Dhaka,F,20,3.9,3.9,3.9,5.0
+Siena Ingram,United States of America,Henderson,F,21,3.8,3.7,3.8,5.0
+Alondra Gardea Corral,Mexico,Ensenada,F,20,2.2,3.8,3.1,2.0
+Vincent Webster,United States of America,New York,M,23,2.0,3.7,3.4,5.0
+Abdul Jabbaar el-Abdul,Egypt,Cairo,M,20,1.5,3.5,3.2,3.0
+Patrick Carnes,United States of America,Mesa,M,22,2.4,3.5,3.6,5.0
+Shawn O Bryan,United States of America,Fairfield,M,23,2.9,3.7,1.5,5.0
+Jenna Whitney,United States of America,San Diego,F,23,3.7,2.9,3.9,5.0
+Kaitlin Krueger,United States of America,Los Angeles,F,24,3.7,3.9,4.0,5.0
+Jaime Mikesell,United States of America,Los Angeles,F,20,3.9,3.7,3.7,5.0
+Katelynn Andrie,United States of America,Kansas City,F,23,3.0,3.9,3.9,5.0
+Maryn Manzanares,United States of America,Laguna Hills,F,21,3.9,3.2,3.2,5.0
+Colleen Kohout,United States of America,Philadelphia,F,22,3.5,3.8,3.1,5.0
+Daniel Spurlin,United States of America,San Jose,M,24,3.9,3.9,3.7,5.0
+Trevor Bulba,United States of America,Chicago,M,21,3.9,3.8,3.8,5.0
+Jordan Burkhamer,United States of America,San Jose,F,23,3.0,3.9,3.7,5.0
+Rebecca Ah Fat,China,Tangshan,F,22,1.8,3.8,4.0,4.0
+Christopher Jacobo,United States of America,Los Angeles,M,21,3.4,2.7,3.9,5.0
+Min Singal,Japan,Tokyo,F,24,3.8,2.9,2.9,4.0
+Corey Rademacher,Ukraine,Chernihiv,M,22,3.1,3.3,3.9,3.0
+Alexander Reed,United States of America,Los Angeles,M,22,3.0,2.7,3.8,5.0
+Dalen Whiting,United States of America,Carrollton,F,23,2.8,3.9,3.3,5.0
+Chelsea Persky,United States of America,San Bernardino,F,23,3.9,3.4,4.0,5.0
+Karla Taylor,Mexico,Mexico,F,21,3.7,3.0,3.7,4.0
+Kaden Yates,United States of America,Salinas,M,23,3.6,3.4,4.0,5.0
+Maimoona el-Soliman,Turkey,Ankara,F,21,2.8,2.6,3.9,3.0
+Aaqil el-Hashemi,India,Bangalore,M,21,3.4,3.0,3.6,3.0
+Sean Bruso,United Kingdom,London,M,19,3.2,3.7,3.9,5.0
+Andrew Bishop,United States of America,Los Angeles,M,22,4.0,3.7,3.8,5.0
+Zahraaa el-Yousef,India,Hospet,F,22,3.9,3.7,3.8,4.0
+Surya Ky,China,Tangshan,M,21,3.7,4.0,3.8,4.0
+George Mann,Russian Federation,Moscow,M,23,3.9,3.9,4.0,4.0
+Latino Calderon,Mexico,Hermosillo,M,23,3.6,3.0,3.0,3.0
+Baylen Cloutier,United States of America,Phoenix,M,22,3.9,3.4,3.7,5.0
+Nicole Torres-Valadez,Brazil,Rio de Janeiro,F,24,3.9,3.1,3.0,1.0
+Addie Villavicencio,United States of America,San Jose,F,20,4.0,3.5,3.2,5.0
+Billy Jack Bestle,United States of America,Baltimore,M,22,3.7,4.0,3.8,5.0
+Isabella Martinez,Colombia,Bogotá,F,23,2.6,4.0,2.7,4.0
+Kimberly Thielke,United States of America,Los Angeles,F,21,3.8,3.9,3.3,5.0
+Adrian Miguel-Gomez,Colombia,Medellín,M,22,3.7,3.3,2.2,4.0
+Kayla Sales,United States of America,Quincy,F,22,2.1,3.1,4.0,5.0
+Haafiza al-Attar,Morocco,Rabat,F,21,2.4,3.6,3.8,3.0
+Juanita Medina,Mexico,Mexico,F,22,3.8,3.9,3.7,4.0
+Emma Kim,China,Hengshui,F,22,2.8,3.9,3.8,2.0
+Mckayla Dopler,Netherlands,Kerkrade,F,21,2.5,3.5,3.7,4.0
+Jonathan Nevarez,Mexico,Mexico,M,23,2.7,2.6,3.6,5.0
+Roger Redfern,United States of America,Los Angeles,M,21,3.9,3.9,3.1,5.0
+Hannah Critchfield,United States of America,New York,F,21,3.5,3.3,3.6,5.0
+Chue Fue Richter,China,Qiqihar,M,23,3.0,3.6,1.4,4.0
+Joshua Mesan,United States of America,San Jose,M,24,4.0,3.8,3.7,5.0
+Dylan Bell,United States of America,Tucson,M,20,3.3,3.8,3.5,5.0
+Troy White,United States of America,New York,M,22,4.0,3.6,3.4,5.0
+Sabaaha al-Latif,India,Bangalore,F,22,3.7,2.7,3.0,3.0
+Grant Walden,United States of America,San Diego,M,22,3.8,3.3,3.3,5.0
+Kitty Nguyen,Japan,Tokyo,F,25,3.4,3.2,2.9,4.0
+Tyler Kibel,United States of America,Santa Ana,M,24,4.0,3.2,3.8,5.0
+Kyler Overboe,United States of America,Chicago,M,21,3.2,4.0,3.5,5.0
+Alexander Lizama,Brazil,Belo Horizonte,M,21,3.9,3.7,3.9,3.0
+Aaron Knott,United States of America,Santa Ana,M,23,3.2,3.6,3.7,5.0
+Jessica Greenberg,United States of America,Joplin,F,23,3.6,3.7,2.8,5.0
+Lexi Hatton,United States of America,Los Angeles,F,23,3.3,2.7,4.0,5.0
+Jesse Hodapp,United States of America,Danville,M,21,3.8,3.0,3.5,5.0
+Andrew Brunelli,United States of America,New York,M,23,3.4,3.8,4.0,5.0
+Makenzie Swann,United States of America,Stockton,F,22,3.4,2.8,3.1,5.0
+Carlos Anaya,Mexico,Mexico,M,24,3.7,3.7,3.7,4.0
+Felipe Martinez Acosta,Chile,Santiago,M,21,3.7,3.7,4.0,3.0
+Emma Casias,United States of America,Rochester,F,22,3.2,3.7,3.2,5.0
+Adolf Malik,Korea (Republic of),Seoul,M,21,3.1,3.5,3.6,3.0
+Christian Chow,China,Handan,M,21,2.6,3.9,3.4,4.0
+Asad el-Yacoub,India,Thana,M,22,2.6,3.3,4.0,3.0
+Holly Marshall,United States of America,San Francisco,F,22,3.0,2.7,2.0,5.0
+Brandilyn Hanselman,Russian Federation,Chelyabinsk,F,21,2.0,3.5,2.2,4.0
+Nicole Patria,China,Chongqing,F,24,3.9,3.3,3.0,2.0
+Kyler Grieshaber,United States of America,Cohoes,M,22,3.6,3.4,4.0,5.0
+Jasper Stang,United States of America,Sacramento,M,24,3.6,3.9,3.3,5.0
+Anthony Visocsky,United States of America,Santa Rosa,M,21,3.4,2.4,4.0,5.0
+Jake Seime,United States of America,Reno,M,22,2.4,3.9,3.7,5.0
+Dasha Bannock Lee,United States of America,San Diego,other,20,2.8,3.3,4.0,5.0
+Anthony Mcdevitt,United States of America,Los Angeles,M,24,3.1,4.0,3.9,5.0
+Darby Focken,United States of America,Hinsdale,F,21,3.5,2.5,3.7,5.0
+Abigail Gallegos,Brazil,Belém,F,24,3.4,3.0,2.1,4.0
+Patricia Rockhold,United States of America,San Francisco,F,21,4.0,3.5,3.4,5.0
+Kylie Schafer,United States of America,Houston,F,22,3.1,3.0,3.3,5.0
+Katherine Beatty,United States of America,Los Angeles,F,19,4.0,2.4,3.9,5.0
+Melissa Bickel,United Kingdom,London,F,22,3.6,2.6,2.5,5.0
+Rachel Boh,United States of America,Roseville,F,22,3.8,3.9,2.9,5.0
+Anna Yoshimura,China,Rizhao,F,20,3.5,3.8,3.9,4.0
+Joseph Hazelton,United States of America,Oakland,M,22,3.5,4.0,3.9,5.0
+Tiffany Nguyen,Thailand,Bangkok,F,22,3.3,3.9,3.9,2.0
+Ryan Tyler,United States of America,Los Angeles,M,20,3.7,3.5,3.5,5.0
+Max Flores,Mexico,Tijuana,M,23,3.9,2.8,2.5,4.0
+Veronica Tounzen,Mexico,Tijuana,F,21,3.8,3.5,3.5,4.0
+Haley Ingrim-Hyrup,United States of America,Fontana,F,22,3.2,3.6,2.6,5.0
+Kayla Sandefur,United States of America,Los Angeles,F,23,3.5,3.1,3.5,5.0
+Rylee Onstott,United States of America,Los Angeles,other,21,4.0,3.8,3.8,5.0
+Kelli De Bartolome,United States of America,San Francisco,F,23,3.4,3.4,3.5,5.0
+Thomas Chanlynn,United States of America,Bay Point,M,22,2.4,3.0,3.8,5.0
+Andrew Yelich,United States of America,Boulder,M,24,2.0,3.9,3.3,5.0
+Dimitri Castillo,Colombia,Dos Quebradas,M,21,3.9,3.0,3.8,3.0
+Matthew Strasburger,United States of America,Los Angeles,M,21,3.9,3.9,2.9,5.0
+Vittoria Faulkner,United States of America,Chicago,F,22,4.0,3.6,2.5,5.0
+Tyler Goetz,United States of America,Los Angeles,M,22,3.7,3.5,2.8,5.0
+Tyler Weller,United States of America,New York,M,22,3.7,3.2,3.1,5.0
+Terri Mergelman,United States of America,Los Angeles,F,23,2.7,3.9,3.0,5.0
+Abigail Orgeron,United States of America,Prior Lake,F,23,3.2,3.0,3.8,5.0
+Jessica Huynh,Korea (Republic of),Seoul,F,22,3.5,2.7,3.2,2.0
+Kyle Blanscet,United States of America,Sabattus,M,23,3.8,3.5,3.7,5.0
+Ronald Toth,United States of America,Los Angeles,M,23,2.7,3.5,3.7,5.0
+Branden Cantrell,United States of America,Phoenix,M,23,2.7,4.0,3.9,5.0
+Hannah Ratterman,United States of America,Los Angeles,F,23,3.5,3.4,3.7,5.0
+Alexandria Winter,United States of America,New York,F,24,3.8,3.8,2.2,5.0
+Ryan Russell,United States of America,Vacaville,M,22,3.0,3.4,3.7,5.0
+Logan Nighswonger,United States of America,Los Angeles,M,21,2.7,4.0,3.9,5.0
+Zaghlool al-Pasha,India,Deoria,M,21,2.3,3.8,3.8,4.0
+Madeline Kremke,United States of America,Montgomery Village,F,22,3.2,3.6,2.6,5.0
+John Ferry,United States of America,Long Beach,M,21,3.8,2.4,3.8,5.0
+Michelle Goldanloo,United States of America,San Diego,F,22,3.3,2.8,3.9,5.0
+Ryan Heidebrecht,United States of America,San Jose,M,22,3.9,3.7,3.8,5.0
+Murtidevi Chung,Japan,Tokyo,F,21,2.9,3.9,3.5,2.0
+Arely Rodriguez,Mexico,Morelia,F,21,3.9,3.5,3.6,4.0
+Taylor Stone,United States of America,Reno,F,22,3.0,3.0,3.5,5.0
+Melody Bowyer,United States of America,Baytown,F,21,3.2,3.5,3.3,5.0
+Bryant Ronquillo,Mexico,Aguascalientes,M,20,4.0,3.2,3.5,4.0
+Garrett Heim,United States of America,Mobile,M,20,4.0,3.2,3.1,5.0
+Cody Amen,United States of America,Las Vegas,M,23,3.6,3.9,3.7,5.0
+Jasmine Lopez,Brazil,Guaxupé,F,21,3.8,3.8,1.5,4.0
+William Tierney,United States of America,New York,M,21,3.8,2.1,3.0,5.0
+Matthew Sputh,United States of America,Modesto,M,22,3.2,2.6,4.0,5.0
+Brenna Chapman,United States of America,Las Vegas,F,21,3.5,3.8,3.3,5.0
+Blake Loughran,United States of America,San Francisco,M,21,4.0,3.0,3.4,5.0
+Michael Melendrez,United States of America,Shreveport,M,22,3.4,3.8,3.2,5.0
+Katie Abercrombie,United States of America,Stockton,F,21,3.8,3.8,3.6,5.0
+Justin Krause,United States of America,Independence,M,21,3.9,2.6,2.8,5.0
+Jennifer Hauge,United States of America,Los Angeles,F,23,2.6,3.0,2.3,5.0
+Tiffanie Her,Japan,Tokyo,F,22,3.4,4.0,3.6,3.0
+Dyllan Paige,United States of America,Sugar Land,M,20,2.9,3.1,2.6,5.0
+Cole Hathcoat,United States of America,Lemoore,M,23,2.4,3.6,2.8,5.0
+Jesse Carballo,Colombia,Bogotá,M,20,3.8,3.9,3.9,4.0
+Robert Podolski,United States of America,Oakland,M,22,3.7,3.3,2.4,5.0
+Viridiana Ballesteros,Brazil,Alfenas,F,22,2.8,3.5,3.9,4.0
+Michael Griffin,United States of America,New York,M,21,4.0,4.0,4.0,5.0
+Chad Klemp,United States of America,San Diego,M,22,3.9,2.6,4.0,5.0
+Weldon Hightower,United States of America,New York,M,20,2.6,2.1,3.2,5.0
+Daniel Pierce,United States of America,New York,M,24,3.3,2.8,3.9,5.0
+Michaela Schoenbeck,United States of America,Rexburg,F,22,3.9,4.0,3.3,5.0
+Charles Prose,United States of America,Miami,M,24,3.7,3.2,2.8,5.0
+Brittany Kemmerzell,United States of America,New York,F,23,3.2,3.4,3.7,5.0
+Taryn Springfield,Canada,Vancouver,F,20,3.5,3.7,3.4,5.0
+Matthew Obourn,United States of America,San Diego,M,23,3.9,4.0,3.9,5.0
+Travis Poss,United States of America,Los Angeles,M,23,2.3,3.0,3.5,5.0
+Brittany Fernandez,Mexico,Zamora,F,23,3.9,3.7,2.9,4.0
+Cody Smith,United States of America,Charlotte,M,23,3.8,3.5,3.9,5.0
+Nicolas Papp,United States of America,New York,M,23,2.7,3.7,3.9,5.0
+Christopher Inhulsen,United States of America,Fort Worth,M,23,3.1,3.3,2.9,5.0
+Tessa Rawanduzy,United States of America,Derby,F,21,3.3,3.3,2.0,5.0
+Vanessa Gonzalez,Nicaragua,León,F,24,3.3,3.7,3.8,3.0
+Austin Haas,United States of America,Columbus,M,20,3.6,3.7,3.1,5.0
+Madison Fithian,United States of America,Los Angeles,F,20,3.6,3.9,4.0,5.0
+Zachary Mulvahill,United States of America,Los Angeles,M,20,3.2,3.4,3.9,5.0
+Eliana Michelsen,United States of America,Oakland,F,23,3.0,2.8,2.9,5.0
+Dane Whittemore,Canada,Toronto,M,21,3.8,3.2,4.0,5.0
